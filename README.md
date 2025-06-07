@@ -47,8 +47,8 @@ A simple wxWidgets + OpenGL demo project showcasing:
 #### Steps to run cmake
 
 - At repository location in console, follow the steps in console
-  mkdir build
-  cd build
-  cmake ..
-  cmake --build 
-  .\Project.exe (or first do, cd Debug and then run)
+- mkdir build
+- cd build
+- cmake ..
+- cmake --build 
+- .\Project.exe (or first do, cd Debug and then run)
