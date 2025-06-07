@@ -44,9 +44,7 @@ A simple wxWidgets + OpenGL demo project showcasing:
 - Use Visual Studio (recommended) or MinGW for compiling
 - Ensure OpenGL libraries come with your environment (usually included)
 
-#### Steps to run cmake
-
-- At repository location in console, follow the steps in console
+#### Steps to run cmake(At repo location)
 - mkdir build
 - cd build
 - cmake ..
