@@ -24,7 +24,26 @@ A simple wxWidgets + OpenGL demo project showcasing:
 
 ## Screenshots
 
-![](ScreenShots\OpenGL1.png)
+![](ScreenShots/OpenGL1.png)
+![](ScreenShots/OpenGL2.png)
+![](ScreenShots/OpenGL3.png)
+![](ScreenShots/OpenGL4.png)
+![](ScreenShots/OpenGL5.png)
+---
+
+## Screenshots
+
+![](ScreenShots/OpenGL1.png)
+---
+
+## Screenshots
+
+![](ScreenShots/OpenGL1.png)
+---
+
+## Screenshots
+
+![](ScreenShots/OpenGL1.png)
 
 ---
 
