@@ -24,7 +24,7 @@ A simple wxWidgets + OpenGL demo project showcasing:
 
 ## Screenshots
 
-![](icon.png)
+![](ScreenShots\OpenGL1.png)
 
 ---
 
